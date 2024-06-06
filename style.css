@@ -336,7 +336,7 @@ h3 {
 
 /* +======== paralex start============== */
 #paralex_main{
-    background-image:url('/images/kalna.jpg');
+    background-image:url('images/kalna.jpg');
     height:40rem;
     width: 100vw;
     background-position: center;
